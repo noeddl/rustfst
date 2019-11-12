@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ConstFst","Immutable FST whose states and arcs each implemented by single arrays,"],["VectorFst","Simple concrete, mutable FST whose states and arcs are stored in standard vectors."]]});

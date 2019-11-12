@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Arc","Structure representing a transition from a state to another state in a FST."]]});

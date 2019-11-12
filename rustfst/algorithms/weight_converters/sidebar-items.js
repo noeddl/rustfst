@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FromGallicConverter","Mapper from GallicWeight to W."],["SimpleWeightConverter","Mapper that leaves labels and nextstate unchanged and constructs a new weight from the underlying value of the arc weight."],["ToGallicConverter","Mapper from W to GallicArc."]]});

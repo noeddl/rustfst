@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AnyArcFilter","True for all arcs."],["EpsilonArcFilter","True for (input/output) epsilon arcs."],["InputEpsilonArcFilter","True for input epsilon arcs."],["OutputEpsilonArcFilter","True for output epsilon arcs."]],"trait":[["ArcFilter","Base trait to restrict which arcs are traversed in an FST."]]});
